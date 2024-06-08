@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>我的家乡</title>
+    <link href="../css/styles.css" rel="stylesheet">
+</head>
+<body>
+    <nav>
+    <div class="container">
+        <div class="logo"><img src="../images/211833645653a9e73aejl4tvG.png" alt="Logo"></div>
+        <ul>
+            <a href="../index.html"><li>首页</li></a>
+            <a href="../jxjs.html"><li>关于家乡</li></a>
+            <a href="../jd.html"><li>家乡景点</li></a>
+            <a href="../ms.html"><li>美食推荐</li></a>
+            <a href="../mr.html"><li>历史名人</li></a>
+        </ul>
+    </div>
+	</nav>
+    <header>
+        <img src="../images/IMG_2024_160451.jpg" alt="" class="header-image">
+    </header>
+    <!-- TemplateBeginEditable name="EditRegion1" -->EditRegion1<!-- TemplateEndEditable -->
+    <footer>
+      <p>&copy; Copyright 我的家乡 design.</p>
+    </footer>
+</body>
+</html>
